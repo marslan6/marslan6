@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! 👋 I'm Mehmet Arslan
 
-<!--
-**marslan6/marslan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **FPGA & Embedded Software Engineer** based in Munich/Germany.
 
-Here are some ideas to get you started:
+* 🎓 **M.Sc. in Communications & Electronics** at **Technical University of Munich**.
+* 🎓 **B.Sc. in Electrical & Electronics Engineering** from **Middle East Technical University**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Technical Focus
+I specialize in the intersection of hardware and software, focusing on:
+* **FPGA Design:** Processor Design, RTL Design, Timing Analysis, High-Speed Interfaces.
+* **Embedded Systems:** Bare-metal programming, RTOS, and Driver Development.
+
+#### 🛠️ Tech Stack
+* **Languages:** C/C++, VHDL/Verilog, Python, MATLAB.
+* **Tools:** Vivado, Quartus, Keil, Altium.
+
+[Link to Portfolio/LinkedIn]
