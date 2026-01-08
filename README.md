@@ -19,7 +19,6 @@ I bridge the gap between hardware and software, with experience ranging from **R
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23D14D27.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-%233A5FCD.svg?style=for-the-badge)
-
 ![VHDL](https://img.shields.io/badge/VHDL-%2300599C.svg?style=for-the-badge&logo=intel&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23F7DF1E.svg?style=for-the-badge&logo=verilog&logoColor=black)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%231877F2.svg?style=for-the-badge&logo=systemverilog&logoColor=white)
@@ -29,7 +28,6 @@ I bridge the gap between hardware and software, with experience ranging from **R
 ![RISC-V](https://img.shields.io/badge/RISC_V-504DFF?style=for-the-badge&logo=riscv&logoColor=white)
 ![MIPS](https://img.shields.io/badge/MIPS-%23333333.svg?style=for-the-badge)
 ![Arm](https://img.shields.io/badge/ARM-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
-
 ![Vivado](https://img.shields.io/badge/Vivado-%23FF0000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
 
@@ -92,9 +90,9 @@ My multidisciplinary background enables me to optimize across the entire system,
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-arslan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/htmos6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmet.arslan@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marslan6)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marslan6)
+
 
 ---
 
