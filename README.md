@@ -96,4 +96,6 @@ My multidisciplinary background enables me to optimize across the entire system,
 
 ---
 
-*Currently based in Munich, Germany • Open to collaboration on FPGA and embedded systems projects*
+• Currently based in Munich, Germany    
+
+• Open to collaboration on FPGA and embedded systems projects*
