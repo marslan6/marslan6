@@ -11,7 +11,7 @@ I bridge the gap between hardware and software, with experience ranging from **R
 
 ### 👨‍💻 About Me
 
-Full-stack hardware-software engineer specializing in RTL design, FPGA implementation, and embedded systems. From bare-metal firmware to kernel drivers and high-performance real-time applications, I deliver optimized solutions across the complete system stack.
+Embedded systems engineer with expertise in real-time firmware, driver development, and system optimization. From bare-metal ARM Cortex-M programming to kernel-level drivers on VxWorks, I build high-performance embedded solutions. Strong hardware background in RTL design enables deep system-level optimization.
 
 ---
 
