@@ -99,19 +99,6 @@ Embedded systems engineer with expertise in real-time firmware, driver developme
 
 ---
 
-### 🚀 What I Do
-
-I specialize in the complete hardware-software stack:
-
-- **Hardware Layer**: Designing and verifying digital systems from RTL to FPGA implementation
-- **Firmware Layer**: Developing efficient, real-time embedded software for resource-constrained systems
-- **Driver Layer**: Creating kernel-level drivers to bridge hardware and operating systems
-- **Application Layer**: Building robust software solutions with modern frameworks and tools
-
-My multidisciplinary background enables me to optimize across the entire system, ensuring seamless integration from silicon to software.
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marslan6)
