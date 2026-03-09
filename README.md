@@ -1,10 +1,9 @@
 ### Hi there! 👋 I'm Mehmet Arslan
 
-**FPGA & Embedded Systems Engineer** | Munich, Germany
+I am an **FPGA & Embedded Software Engineer** based in Munich/Germany.
 
-🎓 M.Sc. Communications & Electronics — TU Munich  
-🎓 B.Sc. Electrical & Electronics Engineering — METU
-
+* 🎓 **M.Sc. in Communications & Electronics** at **Technical University of Munich**.
+* 🎓 **B.Sc. in Electrical & Electronics Engineering** from **Middle East Technical University**.
 ---
 
 ### 🔧 Skills
