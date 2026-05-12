@@ -45,8 +45,7 @@ I am an **FPGA & Digital Design Engineer** based in Munich/Germany.
 - Timing closure & resource optimization
 
 **Embedded Systems**
-- Arm Cortex-M firmware (bare-metal & RTOS)
-- Driver development (PCIe, SPI, I2C, UART)
+- Arm Cortex-M/A firmware (bare-metal & RTOS & embedded C)
 - VxWorks, FreeRTOS, Embedded Linux
 
 ---
