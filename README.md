@@ -2,8 +2,8 @@
 
 I am an **FPGA & Digital Design Engineer** based in Munich/Germany.
 
-* 🎓 **M.Sc. in Communications & Electronics** at **Technical University of Munich**.
-* 🎓 **B.Sc. in Electrical & Electronics Engineering** from **Middle East Technical University**.
+* 🎓 **M.Sc. in Communications & Electronics** at **Technical University of Munich**. (Munich/Germany)
+* 🎓 **B.Sc. in Electrical & Electronics Engineering** from **Middle East Technical University**. (Ankara/Turkey)
 ---
 
 ### 🔧 Skills
