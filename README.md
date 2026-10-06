@@ -2,7 +2,7 @@
 
 I am an **Embedded Software & FPGA Engineer** based in Munich, Germany.
 
-- 🎓 **M.Sc. in Communications & Electronics** — Technical University of Munich (Munich, Germany)
+- 📍 **M.Sc. in Communications & Electronics** — Technical University of Munich (Munich, Germany)
 - 🎓 **B.Sc. in Electrical & Electronics Engineering** — Middle East Technical University (Ankara, Turkey)
 - 🛰️ **Current Research Topic:** Coordinating Hardware Data Prefetchers in Multicore Systems
 
