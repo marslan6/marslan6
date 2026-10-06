@@ -16,7 +16,6 @@ I am an **Embedded Software & FPGA Engineer** based in Munich, Germany.
 ![Verilog](https://img.shields.io/badge/Verilog-F7DF1E?style=for-the-badge&logoColor=black)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1877F2?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-764ABC?style=for-the-badge)
-![OSVVM](https://img.shields.io/badge/OSVVM-4B6C8C?style=for-the-badge)
 ![Cocotb](https://img.shields.io/badge/Cocotb-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 ### FPGA & ASIC Tools
