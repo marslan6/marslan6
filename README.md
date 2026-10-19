@@ -8,6 +8,29 @@ I am an **Embedded Software & FPGA Engineer** based in Munich, Germany.
 
 ---
 
+## 💼 Expertise
+
+### FPGA Design & Verification
+
+- RTL design in VHDL, Verilog and SystemVerilog
+- RISC-V / MIPS processor implementations
+- Functional verification with UVM and cocotb
+- Synthesis, simulation and static timing analysis
+- Place & route, timing closure and resource optimization
+
+### Embedded Systems & Software
+
+- Modern C++ (C++11–23) for embedded and application development, including modernization of legacy C++98/03 codebases
+- Arm Cortex-M/A firmware — bare-metal and RTOS
+- VxWorks, FreeRTOS, Zephyr and Embedded Linux
+- Peripheral and device drivers: UART, SPI, I²C, CAN, DMA, timers, ADC
+- Interrupt handling, scheduling and real-time constraint analysis
+- Bootloaders, memory maps, linker scripts and firmware update flows
+- On-target debugging with JTAG/SWD and GDB
+- Build and debug tooling: CMake, GNU Make, GCC, Clang
+
+---
+
 ## 🔧 Skills
 
 ### HDL & Verification
@@ -49,29 +72,6 @@ I am an **Embedded Software & FPGA Engineer** based in Munich, Germany.
 ![GNU Make](https://img.shields.io/badge/GNU%20Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Expertise
-
-### FPGA Design & Verification
-
-- RTL design in VHDL, Verilog and SystemVerilog
-- RISC-V / MIPS processor implementations
-- Functional verification with UVM and cocotb
-- Synthesis, simulation and static timing analysis
-- Place & route, timing closure and resource optimization
-
-### Embedded Systems & Software
-
-- Modern C++ (C++11–23) for embedded and application development, including modernization of legacy C++98/03 codebases
-- Arm Cortex-M/A firmware — bare-metal and RTOS
-- VxWorks, FreeRTOS, Zephyr and Embedded Linux
-- Peripheral and device drivers: UART, SPI, I²C, CAN, DMA, timers, ADC
-- Interrupt handling, scheduling and real-time constraint analysis
-- Bootloaders, memory maps, linker scripts and firmware update flows
-- On-target debugging with JTAG/SWD and GDB
-- Build and debug tooling: CMake, GNU Make, GCC, Clang
 
 ---
 
