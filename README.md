@@ -58,20 +58,20 @@ I am an **Embedded Software & FPGA Engineer** based in Munich, Germany.
 
 - RTL design in VHDL, Verilog and SystemVerilog
 - RISC-V / MIPS processor implementations
-- Verification with UVM and Cocotb
-- Synthesis and simulation
-- Timing closure, Route & Placement and resource optimization
+- Functional verification with UVM and cocotb
+- Synthesis, simulation and static timing analysis
+- Place & route, timing closure and resource optimization
 
-### Embedded Systems  
+### Embedded Systems & Software
 
+- Modern C++ (C++11–23) for embedded and application development, including modernization of legacy C++98/03 codebases
 - Arm Cortex-M/A firmware — bare-metal and RTOS
 - VxWorks, FreeRTOS, Zephyr and Embedded Linux
 - Peripheral and device drivers: UART, SPI, I²C, CAN, DMA, timers, ADC
 - Interrupt handling, scheduling and real-time constraint analysis
 - Bootloaders, memory maps, linker scripts and firmware update flows
-- On-target debugging with JTAG/SWD, GDB
-- Build and debug tooling: CMake, GNU Make, GDB, GCC, Clang
-
+- On-target debugging with JTAG/SWD and GDB
+- Build and debug tooling: CMake, GNU Make, GCC, Clang
 
 ---
 
