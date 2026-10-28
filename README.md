@@ -5,7 +5,7 @@ I am an **Embedded Software & FPGA Engineer** based in Munich, Germany.
 - 📍 **M.Sc. in Communications & Electronics** — Technical University of Munich (Munich, Germany)
 - 🎓 **B.Sc. in Electrical & Electronics Engineering** — Middle East Technical University (Ankara, Turkey)
 - 🛰️ **Current Research Topic:** Coordinating Hardware Data Prefetchers in Multicore Systems 
-- 💻 **Repository under Development:** A modern C++23, cross-platform LC-3 emulator. **(C++98 → C++23)**
+- 💻 Currently focused on R&D in **Embedded Linux** System Development, targeting the **Cortex-A7** of the **STM32MP1** board
 
 ---
 
