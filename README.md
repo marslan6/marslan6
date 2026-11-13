@@ -6,7 +6,7 @@ I am an **Embedded Software & FPGA Engineer** based in Munich, Germany.
 - 🎓 **B.Sc. in Electrical & Electronics Engineering** — Middle East Technical University (Ankara, Turkey)
 - 🛰️ **Current Research Topic:** Coordinating Hardware Data Prefetchers in Multicore Systems 
 - 💻 Currently focused on R&D in **Embedded Linux** System Development, targeting the **Cortex-A7** of the **STM32MP1** board   
-- 💻 Developing a DCF77-synchronized digital clock on the Xilinx Zynq-7000, recreating the German longwave time signal from near Frankfurt/Main.
+- 💻 Developing a DCF77-synchronized digital clock on the **Xilinx Zynq-7000**, recreating the German longwave time signal from near Frankfurt/Main.
 
 ---
 
